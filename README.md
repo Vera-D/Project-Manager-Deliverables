@@ -1,4 +1,7 @@
-# UI_wireframe_examples
-This repo has links to wireframes created with AdobeXD or Figma during 2019-2020
+# UI/UX Examples
 
-During my studies at Tampere University I have been able to work on a few user interface mock ups for a medical device company (Vitec), a RoboCivics project and local startup(Zealbots). I have attached examples of the work produced for the diferent groups, which includes journey maps and wireframes.
+In this repository I have links to wireframes, storyboards, and journeymaps I created with various tools including: 
+- AdobeXD 
+- Figma 
+
+The UI/UX material was developed for a software company  [(Vitec)](./Vitec) that provides software for hospitals and clinics, a RoboCivics project [(UXbotz)](./UXbotz) intended to teach children about microplastics, and finally for a startup [(Zealbots)](./ZealBots) that was developing an AI powered search engine. 
