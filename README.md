@@ -2,11 +2,7 @@
 
 ## Introduction
 
-This repository contains links to Project Manager deliverables intended to describe my process, approach, and experience with software product development. Particular emphasis will be given to the development of medical device products. This repo was created to show some simple examples of requirement elicitation outputs for the development of software products. The examples include wireframes, storyboards, and journeymaps that were created using:
-
-- AdobeXD
-- Figma
-- UXpresia
+This repository contains links to Project Manager deliverables intended to describe my process, approach, and experience with software product development. Particular emphasis will be given to the development of medical device products. This repo was created to show some simple examples of requirement elicitation outputs for the development of software products.
 
 There are three types of products that are showcased in this repo. The [(Vitec)](./Vitec) project includes artifacts created for a software product that develops applications for hospitals and clinics. The RoboCivics project [(UXbotz)](./UXbotz) was intended to teach children about microplastics. The  [(Zealbots)](./ZealBots) that was developing an AI powered search engine for academics. 
 
@@ -14,9 +10,10 @@ While the three projects are not technically medical devices, the principles app
 
 ## Starting a New Project
 
-When starting a new project at an organization, familiarize yourself with the company's products life cycle. Organizations will vary in the stages and phases they recognize. As an example, a product life with 3 stages with sub phases is listed below.
+When starting a new project at an organization, familiarize yourself with the company's products life cycle. Organizations will vary in the stages and phases they recognize. As an example, a product life with 3 stages with sub phases is listed below. Adaptability is essential to project success as methods of working in organizations will vary and the activities and involvement with stakeholders will also vary depending on the stage and phase of a product when a PM joins the team.
 
 ### Stages
+
 1. Pre-market
     1. Concept
     1. Feasibility
@@ -59,6 +56,13 @@ Requirenments management is a continual process. Products are built for users an
 All products have users and *User Needs* are a special type of requirement that describes what the users want from the product. *User Needs* may be based on directly solicited information or indirectly collected information conveyed as a *User Need*. Indirect information may be provided by company stakeholders that represent the user. If products are intended to be used by the internal team, an internal representative should be included to provide input on *User Needs.*  
 
 Software requirements can be part of the User Needs or they can be lower level requirements that should trace to a User Need. Software requirements can vary by organization. Certain teams that have adopted agile frameworks may be documenting requirements as *Initiatives*, *Epics* and *User Stories*. Furthermore, test teams may enforce the use of syntax to standardize requirements. One such example includes [Gherkin syntax](https://cucumber.io/docs/gherkin/reference/).
+
+## Requirement Verification
+ToDo: Add description
+## Requirement Validation
+ToDo: Add description
+## Iterative Development
+ToDo: Add description
 
 ---
 [prodcuct-school]: https://productschool.com/blog/product-management-2/minimum-lovable-product/ "product school"
