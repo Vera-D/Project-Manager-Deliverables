@@ -1,7 +1,8 @@
 # UI/UX Examples
 
-In this repository I have links to wireframes, storyboards, and journeymaps I created with various tools including: 
-- AdobeXD 
-- Figma 
+This repository contains links to Project Manager deliverables. This repository was created to show some simple examples of requirement elicitation outputs for the development of software products. The examples include wireframes, storyboards, and journeymaps that were created using:
+- AdobeXD
+- Figma
+- UXpresia
 
-The UI/UX material was developed for a software company  [(Vitec)](./Vitec) that provides software for hospitals and clinics, a RoboCivics project [(UXbotz)](./UXbotz) intended to teach children about microplastics, and finally for a startup [(Zealbots)](./ZealBots) that was developing an AI powered search engine. 
+The elements in this demo were developed for a software company  [(Vitec)](./Vitec) that provides software for hospitals and clinics, a RoboCivics project [(UXbotz)](./UXbotz) intended to teach children about microplastics, and finally for a startup [(Zealbots)](./ZealBots) that was developing an AI powered search engine for academics. 
