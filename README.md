@@ -5,9 +5,9 @@
 This repository contains links to Project Manager deliverables that describe my process, approach, and experience with software product development. Particular emphasis will be given to the development of medical device products. In addition, this repo was created to show some simple examples of requirement elicitation outputs for the development of software products.
 
 There are three types of products that are used in this repo: 
-- The [(Vitec)](./Vitec) project includes artifacts created for a software product that develops applications for hospitals and clinics. 
-- The RoboCivics project [(UXbotz)](./UXbotz) was used to teach children about microplastics. 
-- The  [(Zealbots)](./ZealBots) was developing an AI-powered search engine for academics.
+- The [(Vitec)](./vitec) project includes artifacts created for a software product that develops applications for hospitals and clinics. 
+- The RoboCivics project [(UXbotz)](./uxbotz) was used to teach children about microplastics. 
+- The  [(Zealbots)](./zealbots) was developing an AI-powered search engine for academics.
 
 While the three projects are not technically medical devices, the principles applied to the projects are simplified process principles that can be applied to medical products.
 
