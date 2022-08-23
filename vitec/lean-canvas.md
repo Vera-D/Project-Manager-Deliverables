@@ -7,6 +7,9 @@ This Lean Canvas is a version of the Business Model Canvas adapted by Ash Maurya
     <td rowspan="2">
       <b>Problem</b>
       <p>Top 3 Problems</p>
+      <p>The client wants to increase sales of software modules</p>
+      <p>The benefits of the software modules depends on the external developers</p>
+      <p>The software modules look segmented and disconnected</p>
     </td>
     <td>
       <b>Solution</b>
