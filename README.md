@@ -60,6 +60,8 @@ All products have users, and *User Needs* are a particular type of requirement t
 
 Software requirements can be part of the User Needs, or they can be lower-level requirements that should trace to a User Need. Software requirements can vary by organization. Certain teams that have adopted agile frameworks may be documenting requirements as *Initiatives*, *Epics* and *User Stories*. Furthermore, test teams may enforce the use of syntax to standardize requirements. One such example includes [Gherkin syntax](https://cucumber.io/docs/gherkin/reference/).
 
+Illustrations enable articulating and compartmentalizing requirements using business process modeling [(bpm)](https://www.bpmn-sketch-miner.ai/index.html)
+
 ### Agile Requirement Types
 
 Products have a few levels of requirements, with User Needs representing the highest level. For purely software products, the User Needs could represent an agile *Initiative*. *Epics* would be lower-level requirements that are refined further by *user stories*. Concisely put:
